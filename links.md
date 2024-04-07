@@ -22,5 +22,8 @@ To review and deepen our understanding of this week's material, I recommend watc
 * [Belajar Bahasa C dalam 1 Jam untuk Pemula (C Crash Course Bahasa Indonesia)](https://youtu.be/2d19KgToiRo?si=AtcEm9fLNrUKR_R1)
 This video is quite helpful for those who want to learn the basics of C programming language.
 
-* [Fork System Call in Operating System] (https://www.geeksforgeeks.org/fork-system-call-in-operating-system/)
+* [Fork System Call in Operating System](https://www.geeksforgeeks.org/fork-system-call-in-operating-system/)
 To know more about fork system call in operating system
+
+*[Support for password authentication was removed. Please use a personal access token instead](https://dev.to/shafia/support-for-password-authentication-was-removed-please-use-a-personal-access-token-instead-4nbk)
+I had trouble with git push. This link helped me to re-learn how to use TOKEN.
