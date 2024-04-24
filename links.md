@@ -25,5 +25,8 @@ This video is quite helpful for those who want to learn the basics of C programm
 * [Fork System Call in Operating System](https://www.geeksforgeeks.org/fork-system-call-in-operating-system/)
 To know more about fork system call in operating system
 
-*[Support for password authentication was removed. Please use a personal access token instead](https://dev.to/shafia/support-for-password-authentication-was-removed-please-use-a-personal-access-token-instead-4nbk)
+* [Support for password authentication was removed. Please use a personal access token instead](https://dev.to/shafia/support-for-password-authentication-was-removed-please-use-a-personal-access-token-instead-4nbk)
 I had trouble with git push. This link helped me to re-learn how to use TOKEN.
+
+* [Concurrency & Synchronization in Operating Systems](https://www.youtube.com/playlist?list=PL8tc66sMn9Kggk4zRPzcjXNUIDDnJKUnU)
+PLaylist to learn more about concurrency anda synchronization.
