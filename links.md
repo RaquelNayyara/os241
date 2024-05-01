@@ -30,3 +30,6 @@ I had trouble with git push. This link helped me to re-learn how to use TOKEN.
 
 * [Concurrency & Synchronization in Operating Systems](https://www.youtube.com/playlist?list=PL8tc66sMn9Kggk4zRPzcjXNUIDDnJKUnU)
 PLaylist to learn more about concurrency anda synchronization.
+
+* [LFS 12.1 - How to build Linux From Scratch 12.1](https://www.youtube.com/playlist?list=PLyc5xVO2uDsCKdz6-Ojah0o-ZTqGE7HEX)
+For Week 08 Assignment, i only used this source because it's already very comprehensive for learning about LFS
