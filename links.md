@@ -33,3 +33,6 @@ PLaylist to learn more about concurrency anda synchronization.
 
 * [LFS 12.1 - How to build Linux From Scratch 12.1](https://www.youtube.com/playlist?list=PLyc5xVO2uDsCKdz6-Ojah0o-ZTqGE7HEX)
 For Week 08 Assignment, i only used this source because it's already very comprehensive for learning about LFS
+
+* [Chapter 7: Entering Chroot and Building Additional Temporary Tools - How to build Linux From Scr](https://youtu.be/6r-2qCOPtLg?si=e4YuYkz0ftDC_aLH)
+For this week's assignment, i'm still using the same video source as last week. This video has been very helpful for me to understand and enter chroot.
